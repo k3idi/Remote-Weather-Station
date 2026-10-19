@@ -2,31 +2,13 @@
 
 > ### State of the project: designing the PCB
 
-*make sure to explain what is LoRa*
+The purpose of this device is to monitor the temperature of a lake and transmit the data over several kilometers using LoRa.
 
-*abstract*
+The design schematic and PCB files can be found [here](https://github.com/k3idi/Remote-Weather-Station/tree/main/PCB%20design%20files).
 
-### Sections of the PCB
-
-*A picture of the PCB with the sections circled and numbered.*
-
-The design schematic and PCB files can be found [here](insert link to pcb files once they exist).
-
-![Sections of the board](media/BOARD.png)
-
-*Explain the sections, referring to them using the numbers.*
-
-#### 1. USB power and programming interface
-
-
-
-
-### Photos of the board
-
-*Under title*: pictures of the board (before and after, lol)
-
-
-### Mistakes and fixes
+MCU and power             |  LoRa
+:-------------------------:|:-------------------------:
+![unsoldered](media/BOARD_MCU.PNG)  |  ![soldered](media/BOARD_LORA.PNG)
 
 
 
